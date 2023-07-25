@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/im_aziz_7477" target="blank"><img src="https://img.shields.io/twitter/follow/im_aziz_7477?logo=twitter&style=for-the-badge"/></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, React js and Java**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React js, and Java**
 
 - 💬 Ask me about **Web Development**
 
