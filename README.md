@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im_aziz_7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya_vatsaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aziz7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya vatsa" height="30" width="40" /></a>
-<a href="https://fb.com/aziz742141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saumya vatsa" height="30" width="40" /></a>
-<a href="https://instagram.com/im_aziz_7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumya.vatsa21" height="30" width="40" /></a>
+<a href="https://twitter.com/AbdulAzizDevIn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya_vatsaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulazizdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya vatsa" height="30" width="40" /></a>
+<a href="https://fb.com/abdulazizdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saumya vatsa" height="30" width="40" /></a>
+<a href="https://instagram.com/abdul_aziiz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumya.vatsa21" height="30" width="40" /></a>
 </p>
 
 ## Technical Skills
