@@ -29,9 +29,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizDevIn&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=AbdulAzizDevIn)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizDevIn&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=AbdulAzizDevIn)](https://git.io/streak-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzizDevIn)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzizDevIn)
 
 
 
