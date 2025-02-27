@@ -1,5 +1,5 @@
 ![A passionate fullstack developer and code enthusiast from India](https://i.ibb.co/gmBcSvG/github-header-image.png)
-<h3 align="center">A passionate Frontend Developer and code enthusiast from India.</h3>
+<h3 align="center">A passionate Full-Stack Developer and code enthusiast from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulAzizDevIn&label=Profile%20views&color=0e75b6&style=flat"/> </p>
