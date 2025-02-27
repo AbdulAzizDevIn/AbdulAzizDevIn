@@ -20,11 +20,33 @@
 <a href="https://instagram.com/im_aziz_7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumya.vatsa21" height="30" width="40" /></a>
 </p>
 
-Technical Skills:-
+## Technical Skills
 
-Languages: JavaScript, Java, HTML, CSS
-Technologies/Frameworks: React.js, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, Material-UI, Shadcn UI, JWT, Bcryptjs
-Developer Tools: VS Code, Git, GitHub, Firebase, Postman
+### Languages
+- JavaScript
+- Java
+- HTML
+- CSS
+
+### Technologies/Frameworks
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Redux
+- Tailwind CSS
+- Material-UI
+- Shadcn UI
+- JWT
+- Bcryptjs
+
+### Developer Tools
+- VS Code
+- Git
+- GitHub
+- Firebase
+- Postman
+
 
 
 
