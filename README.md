@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulAzizDevIn&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="left"> <a href="https://twitter.com/im_aziz_7477" target="blank"><img src="https://img.shields.io/twitter/follow/im_aziz_7477?logo=twitter&style=for-the-badge"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abdulazizdev/" target="blank"><img src="https://img.shields.io/linkedin/follow/AbdulAzizDevIn?logo=twitter&style=for-the-badge"/></a> </p>
 
 - 🌱 I’m currently learning **Next.JS, Convex, Clerk**
 
