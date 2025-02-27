@@ -1,12 +1,12 @@
-![A passionate frontend developer and code enthusiast from India](https://i.ibb.co/gmBcSvG/github-header-image.png)
+![A passionate fullstack developer and code enthusiast from India](https://i.ibb.co/gmBcSvG/github-header-image.png)
 <h3 align="center">A passionate Frontend Developer and code enthusiast from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz7477&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulAzizDevIn&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <p align="left"> <a href="https://twitter.com/im_aziz_7477" target="blank"><img src="https://img.shields.io/twitter/follow/im_aziz_7477?logo=twitter&style=for-the-badge"/></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React js, and Java**
+- 🌱 I’m currently learning **Next.JS, Convex, Clerk**
 
 - 💬 Ask me about **Web Development**
 
@@ -22,30 +22,11 @@
 
 ## Technical Skills
 
-### Languages
-- JavaScript
-- Java
-- HTML
-- CSS
+**Languages:** JavaScript, Java, HTML, CSS
 
-### Technologies/Frameworks
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Redux
-- Tailwind CSS
-- Material-UI
-- Shadcn UI
-- JWT
-- Bcryptjs
+**Technologies/Frameworks:** React.js, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, Material-UI, Shadcn UI, JWT, Bcryptjs
 
-### Developer Tools
-- VS Code
-- Git
-- GitHub
-- Firebase
-- Postman
+**Developer Tools:** VS Code, Git, GitHub, Firebase, Postman
 
 
 
