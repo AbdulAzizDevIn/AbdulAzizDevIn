@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulAzizDevIn&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 🌱 I’m currently learning **Next.JS, Convex, Clerk**
+- 🌱 I’m currently learning **Next.JS, TypeScript, Convex, Clerk**
 
 - 💬 Ask me about **Web Development**
 
